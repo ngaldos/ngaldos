@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nicolas Galdos</h1>
 <h3 align="center">Fullstack developer from Argentina passionate by back-end.</h3>
 
-- 📖  About Me **I'm a Full Stack Developer from La Plata, Argentina. 
-- 
-- I'm currently studying for a Bachelor of Systems in the faculty of computer science at the national university of La Plata. I've been interested in computers and their functioning since my early childhood. From the hardware to the software. Lately, I have learned a lot of programming paradigms, organization, and architecture of computers and algorithms. 
-- 
-- Nowadays I'm in the second year of my career. I'm interested in learning and expanding my knowledge in programming languages of high and low levels. 
-- 
-- I'm currently searching for employment that allows me to continue and finish my degree so I can achieve my goal and therefore gain more value as a person and employee. 
-- 
-- Since my childhood, I've spoken English and I'm interested in improving it and constantly practicing it.**
+ 📖  About Me **I'm a Full Stack Developer from La Plata, Argentina. 
+ 
+ I'm currently studying for a Bachelor of Systems in the faculty of computer science at the national university of La Plata. I've been interested in computers and their functioning since my early childhood. From the hardware to the software. Lately, I have learned a lot of programming paradigms, organization, and architecture of computers and algorithms. 
+ 
+ Nowadays I'm in the second year of my career. I'm interested in learning and expanding my knowledge in programming languages of high and low levels. 
+ 
+ I'm currently searching for employment that allows me to continue and finish my degree so I can achieve my goal and therefore gain more value as a person and employee. 
+ 
+ Since my childhood, I've spoken English and I'm interested in improving it and constantly practicing it.**
 
 - 📫 Contact Me **Email: ngaldos98@gmail.com | Linkedin: https://www.linkedin.com/in/ngaldos/**
 
