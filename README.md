@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nicolas Galdos</h1>
 <h3 align="center">Fullstack developer from Argentina passionate by back-end.</h3>
 
- 📖  About Me **I'm a Full Stack Developer from La Plata, Argentina. 
+ 📖  About Me 
+  I'm a Full Stack Developer from La Plata, Argentina. 
  
  I'm currently studying for a Bachelor of Systems in the faculty of computer science at the national university of La Plata. I've been interested in computers and their functioning since my early childhood. From the hardware to the software. Lately, I have learned a lot of programming paradigms, organization, and architecture of computers and algorithms. 
  
